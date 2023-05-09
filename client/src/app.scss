@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,700&display=swap');
+*{
+    font-family: 'Roboto',  sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;// dung de toi uu viec tai font chuf
+}
+.app{
+    .link{
+        color: inherit;
+        text-decoration: none;
+    }
+}
+
+:root {
+    --c-white: #FFFFFF;
+    --c-pink-300: #f9a0a2;
+    --c-pink-200: #FAD0D1;
+    --c-pink-100: #fff1f1;
+    --c-pink-50: #fff6f6;
+    --c-green-300: #9ae3c1;
+    --c-green-200: #BFE6D4;
+    --c-green-100: #eaf8f1;
+    --c-green-50: #e5f4ed;
+    --b-sm: 2px;
+    --b-md: 3px;
+    --b-bg: 5px;
+  }
